@@ -1,0 +1,14 @@
+{
+  "name": "slnodekmeans",
+  "version": "0.1.0",
+  "description": "K Means algorithm implemented in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clustering"
+  ],
+  "author": "Shaun Lusk",
+  "license": "MIT"
+}
